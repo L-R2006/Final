@@ -1,0 +1,2 @@
+url=max.ge/final/t3/38475629/index.php
+name=MyChatBot
