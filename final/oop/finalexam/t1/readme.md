@@ -33,7 +33,8 @@ This Java program transforms two input lists (`list1` and `list2`) into a third 
 - This prevents `IndexOutOfBoundsException` and ensures only valid mappings are processed.
 
 ---
-
+Screenshot of Error Handling
+![Error Handling Example](picture.png)
 ## Example
 
 ### Input:
@@ -47,6 +48,5 @@ List3 before removal: [two1, three2, four3]
 List3 after removal: [two1]
  
  
-##### Screenshot of Error Handling
 
-![Error Handling Example](picture.png)
+
